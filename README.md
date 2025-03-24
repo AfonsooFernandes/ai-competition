@@ -1,5 +1,4 @@
 # Artificial Intelligence | Informatics Engineering [@IPVC/ESTG](https://www.ipvc.pt/estg/)  #
-Teachers: [Luís Teófilo](mailto:luisteofilo@estg.ipvc.pt) and [Jorge Ribeiro](mailto:jribeiro@estg.ipvc.pt) 
 ___
 ### Introduction ###
 
